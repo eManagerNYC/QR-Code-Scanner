@@ -19,7 +19,7 @@ Software is free to use/hack/fork and is license under GPLv2 or higher.  Please 
 Shortcode to use: `[qrscan]`
 
 Parameters used within shortcode (Use px for pixels):
-	- `width`
-	- `height`
+- `width`
+- `height`
 
 For example: `[qrscan width="300px" height="250px"]`
