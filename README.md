@@ -5,7 +5,7 @@ USes a shortcode to insert a QR Code Scanner
 
 ## License
 
-Software is free to use/hack/fork and is license under GPLv2 or higher.  Please share any significant contrbutions to the community. Credit to Daaniel Ward http://dwa012.github.io/html5-qrcode/
+Software is free to use/hack/fork and is license under GPLv2 or higher.  Please share any significant contrbutions to the community. Credit to Daniel Ward http://dwa012.github.io/html5-qrcode/
 
 ## Installation
 
