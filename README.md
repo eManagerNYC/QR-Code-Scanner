@@ -16,10 +16,9 @@ Software is free to use/hack/fork and is license under GPLv2 or higher.  Please 
 
 ## Use
 
-Shortcode paramaters
+Shortcode to use: `[qrscan]`
 
-`[qrscan]`
-
+Parameters used within shortcode (Use px for pixels):
 	- `width`
 	- `height`
 
