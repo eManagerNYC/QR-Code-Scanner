@@ -22,4 +22,4 @@ Parameters used within shortcode (Use px for pixels):
 	- `width`
 	- `height`
 
-	For example: `[qrscan width="300px" height="250px"]`
+For example: `[qrscan width="300px" height="250px"]`
